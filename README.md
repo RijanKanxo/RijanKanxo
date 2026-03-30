@@ -1,6 +1,6 @@
 <!--
 ╔══════════════════════════════════════════════════════════════════╗
-║             RIJAN POUDEL  ·  github.com/RijanKanxo              ║
+║             RIJAN POUDEL  ·  github.com/rijan-poudel              ║
 ╚══════════════════════════════════════════════════════════════════╝
 -->
 
@@ -21,8 +21,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/rijan-poudel-708254269)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/rijan.poudel.111)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/RijanKanxo)
-[![Profile Views](https://komarev.com/ghpvc/?username=RijanKanxo&style=flat-square&color=7c3aed&label=profile+views)](https://github.com/RijanKanxo)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/rijan-poudel)
+[![Profile Views](https://komarev.com/ghpvc/?username=rijan-poudel&style=flat-square&color=7c3aed&label=profile+views)](https://github.com/rijan-poudel)
 
 </div>
 
@@ -82,38 +82,38 @@ These are the repos I'd point someone to first — a mix of UI experiments, appl
 
 <br/>
 
-<a href="https://github.com/RijanKanxo/UNO">
-  <img align="center" height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=RijanKanxo&repo=UNO&hide_border=true&theme=transparent&title_color=7c3aed&icon_color=7c3aed&text_color=555555&description_lines_count=2" />
+<a href="https://github.com/rijan-poudel/UNO">
+  <img align="center" height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=rijan-poudel&repo=UNO&hide_border=true&theme=transparent&title_color=7c3aed&icon_color=7c3aed&text_color=555555&description_lines_count=2" />
 </a>
-<a href="https://github.com/RijanKanxo/UK-Esports">
-  <img align="center" height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=RijanKanxo&repo=UK-Esports&hide_border=true&theme=transparent&title_color=7c3aed&icon_color=7c3aed&text_color=555555&description_lines_count=2" />
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/RijanKanxo/timi">
-  <img align="center" height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=RijanKanxo&repo=timi&hide_border=true&theme=transparent&title_color=7c3aed&icon_color=7c3aed&text_color=555555&description_lines_count=2" />
-</a>
-<a href="https://github.com/RijanKanxo/standby-clock">
-  <img align="center" height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=RijanKanxo&repo=standby-clock&hide_border=true&theme=transparent&title_color=7c3aed&icon_color=7c3aed&text_color=555555&description_lines_count=2" />
+<a href="https://github.com/rijan-poudel/UK-Esports">
+  <img align="center" height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=rijan-poudel&repo=UK-Esports&hide_border=true&theme=transparent&title_color=7c3aed&icon_color=7c3aed&text_color=555555&description_lines_count=2" />
 </a>
 
 <br/><br/>
 
-<a href="https://github.com/RijanKanxo/Attendance-system-using-Face-Recognition">
-  <img align="center" height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=RijanKanxo&repo=Attendance-system-using-Face-Recognition&hide_border=true&theme=transparent&title_color=7c3aed&icon_color=7c3aed&text_color=555555&description_lines_count=2" />
+<a href="https://github.com/rijan-poudel/timi">
+  <img align="center" height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=rijan-poudel&repo=timi&hide_border=true&theme=transparent&title_color=7c3aed&icon_color=7c3aed&text_color=555555&description_lines_count=2" />
 </a>
-<a href="https://github.com/RijanKanxo/Retro-UI">
-  <img align="center" height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=RijanKanxo&repo=Retro-UI&hide_border=true&theme=transparent&title_color=7c3aed&icon_color=7c3aed&text_color=555555&description_lines_count=2" />
+<a href="https://github.com/rijan-poudel/standby-clock">
+  <img align="center" height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=rijan-poudel&repo=standby-clock&hide_border=true&theme=transparent&title_color=7c3aed&icon_color=7c3aed&text_color=555555&description_lines_count=2" />
 </a>
 
 <br/><br/>
 
-<a href="https://github.com/RijanKanxo/Study_with_me">
-  <img align="center" height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=RijanKanxo&repo=Study_with_me&hide_border=true&theme=transparent&title_color=7c3aed&icon_color=7c3aed&text_color=555555&description_lines_count=2" />
+<a href="https://github.com/rijan-poudel/Attendance-system-using-Face-Recognition">
+  <img align="center" height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=rijan-poudel&repo=Attendance-system-using-Face-Recognition&hide_border=true&theme=transparent&title_color=7c3aed&icon_color=7c3aed&text_color=555555&description_lines_count=2" />
 </a>
-<a href="https://github.com/RijanKanxo/Specialist-2_Sentiment">
-  <img align="center" height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=RijanKanxo&repo=Specialist-2_Sentiment&hide_border=true&theme=transparent&title_color=7c3aed&icon_color=7c3aed&text_color=555555&description_lines_count=2" />
+<a href="https://github.com/rijan-poudel/Retro-UI">
+  <img align="center" height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=rijan-poudel&repo=Retro-UI&hide_border=true&theme=transparent&title_color=7c3aed&icon_color=7c3aed&text_color=555555&description_lines_count=2" />
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/rijan-poudel/Study_with_me">
+  <img align="center" height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=rijan-poudel&repo=Study_with_me&hide_border=true&theme=transparent&title_color=7c3aed&icon_color=7c3aed&text_color=555555&description_lines_count=2" />
+</a>
+<a href="https://github.com/rijan-poudel/Specialist-2_Sentiment">
+  <img align="center" height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=rijan-poudel&repo=Specialist-2_Sentiment&hide_border=true&theme=transparent&title_color=7c3aed&icon_color=7c3aed&text_color=555555&description_lines_count=2" />
 </a>
 
 <br/>
@@ -126,19 +126,19 @@ A complete list of public work — 25 repositories spanning UI, fullstack, and M
 
 | Repository | Description | Language |
 |---|---|---|
-| [UNO](https://github.com/RijanKanxo/UNO) | Retro-inspired digital card game focused on game feel and visual personality | JavaScript |
-| [UK-Esports](https://github.com/RijanKanxo/UK-Esports) | Esports platform UI with dense layouts and dark theming | PHP |
-| [timi](https://github.com/RijanKanxo/timi) | Time tracking tool — clean input model, stays out of your way | TypeScript |
-| [standby-clock](https://github.com/RijanKanxo/standby-clock) | Minimal standby clock with deliberate visual polish | CSS |
-| [Study\_with\_me](https://github.com/RijanKanxo/Study_with_me) | Focus and productivity companion, minimal by design | JavaScript |
-| [Retro-UI](https://github.com/RijanKanxo/Retro-UI) | Retro-styled UI component experiments and explorations | — |
-| [travel-App](https://github.com/RijanKanxo/travel-App) | Travel interface work focused on layout and user journeys | JavaScript |
-| [Attendance-system-using-Face-Recognition](https://github.com/RijanKanxo/Attendance-system-using-Face-Recognition) | Python attendance automation using face recognition + computer vision | Python |
-| [Specialist-2\_Sentiment](https://github.com/RijanKanxo/Specialist-2_Sentiment) | Sentiment analysis — text processing and data-driven logic | Python |
-| [demo-Task](https://github.com/RijanKanxo/demo-Task) | To-do list task management interface | JavaScript |
-| [RijanKanxo](https://github.com/RijanKanxo/RijanKanxo) | This profile README — the meta one | Markdown |
+| [UNO](https://github.com/rijan-poudel/UNO) | Retro-inspired digital card game focused on game feel and visual personality | JavaScript |
+| [UK-Esports](https://github.com/rijan-poudel/UK-Esports) | Esports platform UI with dense layouts and dark theming | PHP |
+| [timi](https://github.com/rijan-poudel/timi) | Time tracking tool — clean input model, stays out of your way | TypeScript |
+| [standby-clock](https://github.com/rijan-poudel/standby-clock) | Minimal standby clock with deliberate visual polish | CSS |
+| [Study\_with\_me](https://github.com/rijan-poudel/Study_with_me) | Focus and productivity companion, minimal by design | JavaScript |
+| [Retro-UI](https://github.com/rijan-poudel/Retro-UI) | Retro-styled UI component experiments and explorations | — |
+| [travel-App](https://github.com/rijan-poudel/travel-App) | Travel interface work focused on layout and user journeys | JavaScript |
+| [Attendance-system-using-Face-Recognition](https://github.com/rijan-poudel/Attendance-system-using-Face-Recognition) | Python attendance automation using face recognition + computer vision | Python |
+| [Specialist-2\_Sentiment](https://github.com/rijan-poudel/Specialist-2_Sentiment) | Sentiment analysis — text processing and data-driven logic | Python |
+| [demo-Task](https://github.com/rijan-poudel/demo-Task) | To-do list task management interface | JavaScript |
+| [rijan-poudel](https://github.com/rijan-poudel/rijan-poudel) | This profile README — the meta one | Markdown |
 
-> View all 25 repositories → [github.com/RijanKanxo?tab=repositories](https://github.com/RijanKanxo?tab=repositories)
+> View all 25 repositories → [github.com/rijan-poudel?tab=repositories](https://github.com/rijan-poudel?tab=repositories)
 
 ---
 
@@ -149,10 +149,10 @@ A complete list of public work — 25 repositories spanning UI, fullstack, and M
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats.vercel.app/api?username=RijanKanxo&show_icons=true&rank_icon=github&include_all_commits=true&hide_border=true&bg_color=0d0d0d&title_color=c084fc&text_color=a0a0b0&icon_color=7c3aed&ring_color=7c3aed&show=prs_merged,prs_merged_percentage"
+    srcset="https://github-readme-stats.vercel.app/api?username=rijan-poudel&show_icons=true&rank_icon=github&include_all_commits=true&hide_border=true&bg_color=0d0d0d&title_color=c084fc&text_color=a0a0b0&icon_color=7c3aed&ring_color=7c3aed&show=prs_merged,prs_merged_percentage"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api?username=RijanKanxo&show_icons=true&rank_icon=github&include_all_commits=true&hide_border=true&title_color=7c3aed&icon_color=7c3aed&ring_color=7c3aed&show=prs_merged,prs_merged_percentage"
+    src="https://github-readme-stats.vercel.app/api?username=rijan-poudel&show_icons=true&rank_icon=github&include_all_commits=true&hide_border=true&title_color=7c3aed&icon_color=7c3aed&ring_color=7c3aed&show=prs_merged,prs_merged_percentage"
     height="170"
     alt="GitHub Stats"
   />
@@ -161,10 +161,10 @@ A complete list of public work — 25 repositories spanning UI, fullstack, and M
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=RijanKanxo&layout=compact&langs_count=8&hide_border=true&bg_color=0d0d0d&title_color=c084fc&text_color=a0a0b0"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=rijan-poudel&layout=compact&langs_count=8&hide_border=true&bg_color=0d0d0d&title_color=c084fc&text_color=a0a0b0"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=RijanKanxo&layout=compact&langs_count=8&hide_border=true&title_color=7c3aed"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rijan-poudel&layout=compact&langs_count=8&hide_border=true&title_color=7c3aed"
     height="170"
     alt="Top Languages"
   />
@@ -175,10 +175,10 @@ A complete list of public work — 25 repositories spanning UI, fullstack, and M
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-streak-stats.herokuapp.com/?user=RijanKanxo&hide_border=true&background=0d0d0d&ring=7c3aed&fire=c084fc&currStreakLabel=c084fc&sideLabels=a0a0b0&dates=606070&stroke=1a1a2e"
+    srcset="https://github-readme-streak-stats.herokuapp.com/?user=rijan-poudel&hide_border=true&background=0d0d0d&ring=7c3aed&fire=c084fc&currStreakLabel=c084fc&sideLabels=a0a0b0&dates=606070&stroke=1a1a2e"
   />
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=RijanKanxo&hide_border=true&ring=7c3aed&fire=7c3aed&currStreakLabel=7c3aed"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=rijan-poudel&hide_border=true&ring=7c3aed&fire=7c3aed&currStreakLabel=7c3aed"
     height="170"
     alt="GitHub Streak"
   />
@@ -186,11 +186,11 @@ A complete list of public work — 25 repositories spanning UI, fullstack, and M
 
 <br/><br/>
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=RijanKanxo&theme=flat&no-frame=true&no-bg=true&margin-w=8&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=rijan-poudel&theme=flat&no-frame=true&no-bg=true&margin-w=8&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 <br/>
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RijanKanxo&bg_color=00000000&color=7c3aed&line=7c3aed&point=c084fc&hide_border=true&area=true&area_color=7c3aed)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rijan-poudel&bg_color=00000000&color=7c3aed&line=7c3aed&point=c084fc&hide_border=true&area=true&area_color=7c3aed)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
