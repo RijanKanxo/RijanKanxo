@@ -125,7 +125,7 @@ export default function HomePage() {
   return (
     <>
       <PortfolioPage />
-      <Script id="portfolio-behavior" src="/portfolio.js" strategy="afterInteractive" />
+      <Script id="portfolio-behavior" src="portfolio.js" strategy="afterInteractive" />
       <Script id="portfolio-contact" strategy="afterInteractive">
         {contactScript}
       </Script>
