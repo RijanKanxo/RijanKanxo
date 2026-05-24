@@ -330,7 +330,7 @@ export default function PortfolioPage() {
                   Frontend developer and designer from Nepal focused on minimal
                   digital experiences - design that does not shout.
                 </p>
-                <p className="hero-id">First-year BSc CSIT - ISMT College, Chitwan</p>
+                <p className="hero-id">2nd-year BSc CSIT - ISMT College, Chitwan</p>
               </div>
               <div className="hero-quick">
                 <a href="https://github.com/rijan-poudel" rel="noreferrer" target="_blank">
@@ -382,7 +382,7 @@ export default function PortfolioPage() {
               <div className="rv">
                 <div className="about-body">
                   <p>
-                    I&apos;m a <strong>first-year BSc CSIT student</strong> at
+                    I&apos;m a <strong>2nd-year BSc CSIT student</strong> at
                     ISMT College, Chitwan. I build things that live on screens -
                     from React interfaces to visual identities for real Nepali
                     businesses.
