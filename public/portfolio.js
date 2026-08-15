@@ -260,6 +260,8 @@ function useEmails(folderId) {
     cat:'Poetry Experience - Next.js - 2025',
     chips:['Next.js','Poetry','Reading Experience','Atmosphere'],
     link:'https://unsentpoems.vercel.app',
+    previewImage:'projects/unsent-poems.png',
+    images:['projects/unsent-poems.png'],
     svgType:'brand',
     problem:'I wanted to make a quiet, emotionally led website where presentation matters as much as content. The goal was not just to publish writing, but to create a reading space that feels intimate and intentional.',
     role:'Solo creator. Wrote the content direction, shaped the visual mood, and built the frontend experience.',
