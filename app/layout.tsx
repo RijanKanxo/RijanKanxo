@@ -7,9 +7,9 @@ export const metadata: Metadata = {
   description:
     "Portfolio of Rijan Kapur Poudel, a frontend developer and designer from Chitwan, Nepal.",
   icons: {
-    icon: "/favicon.png",
-    shortcut: "/favicon.png",
-    apple: "/favicon.png"
+    icon: "/favicon.ico",
+    shortcut: "/favicon.ico",
+    apple: "/favicon.ico"
   }
 };
 
